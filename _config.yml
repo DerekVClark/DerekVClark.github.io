@@ -1,14 +1,4 @@
 title: Derek Clark
 description: E-portfolio Site
-lsi: false
-safe: true
-source: main
-incremental: false
-highlighter: rouge
-theme: minima
-gist:
-  noscript: false
-kramdown:
-  math_engine: mathjax
-  syntax_highlighter: rouge
-  
+show_downloads: true
+theme: jekyll-theme-minimal
