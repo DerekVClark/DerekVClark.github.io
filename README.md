@@ -1,3 +1,4 @@
+<link rel="stylesheet" href="/style.css">
 # <u> E-Portfolio </u>
 
 ## Welcome
