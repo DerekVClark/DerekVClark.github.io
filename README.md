@@ -7,3 +7,5 @@ Additionally, I have included a [**_code review video_**](#Code-Review) that was
 
 In the next section of the E-portfolio I have decided to include a professional self assesment reflecting on the work I have done to complete this capstone project and my experience in the computer science program at SNHU.
 
+## Professional Self Assesment
+
