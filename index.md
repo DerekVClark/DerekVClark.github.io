@@ -18,6 +18,8 @@ In the next section of the E-portfolio I have decided to include a professional 
 
 ## Code Review
 
+Code reviews are an important and common practice in the field of software development allowing for a deeper more thruough look through of the code to identify possible weaknesses, vulnerabilities, and ways in which the code can be improved. The following code review video was performed by me identifying enhancements that can be made to the three artifacts included in this E-portfolio, why I have chosen the enhancements/how the enhancement will improve the artifact, and finally what are my plans for implementing the planned enhancements. The code review video demonstrates my growth as a software developer and my ability to aknowledge my own faults and improve upon them with my new found knowledge.
+
 <iframe width="560" height="315" 
 src="https://www.youtube.com/watch?v=MguxJ_hu0xo" 
 title="Code Review Youtube Video" frameborder="0" 
