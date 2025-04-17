@@ -4,7 +4,7 @@ layout: default
 
 <link rel="stylesheet" href="/styles.css">
 
-#E-Portfolio
+# E-Portfolio
 
 ## Welcome
 Hello my name is Derek Clark and welcome to my E-portfolio. The purpose of this E-portfolio is to not only demonstrate my ability to develop a fully fledged working application but identify weaknesses and imporvements that can be made to enhance the artifact.  Encompassed in this portfolio are three unqiue artifacts that fall under three distinct software development categories. These three distinct categories are _Software Design & Engineering_ , _Algorithms & Data Structures_ , and lastly _Databases_. 
@@ -28,7 +28,7 @@ Code reviews are an important and common practice in the field of software devel
 [![Watch the video](https://img.youtube.com/vi/MguxJ_hu0xo/0.jpg)](https://www.youtube.com/watch?v=MguxJ_hu0xo)
 
 ## Artifact 1: Software Design & Engineering
-<u> [**Original artifact repo**](https://github.com/DerekVClark/app) </u>
+[<u>**Original artifact repo**</u>](https://github.com/DerekVClark/app)
 
 The artifact that I have chosen to enhance and showcase in the category of software design and engineering is my CS-360 final project. This project originally had required me tro develop a mockup design for an inventory management application based on requirements I had gathered from mock interviews with store management personel, warehouse workers, and truck delivery drivers. The general needs of these three user types can be broken down into three core functionalities, the ability to sign in to the application using user credentials, the ability to perform CRUD functionality to inventory items (Including adding, updating, and deleting items), and recieve SMS text messages when an item in inventories quanitity is equal to zero. Following the gethering of these user requirements I was tasked with developing an adroid application utilizing the android studio IDE for constructing the user interface and communicating with an SQLite database to manage inventory items using local storage.
 
