@@ -19,7 +19,7 @@ In the next section of the E-portfolio I have decided to include a professional 
 ## Code Review
 
 <iframe width="560" height="315" 
-src="https://youtu.be/MguxJ_hu0xo" 
+src="https://www.youtube.com/watch?v=MguxJ_hu0xo" 
 title="Code Review Youtube Video" frameborder="0" 
 allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
 allowfullscreen></iframe>
