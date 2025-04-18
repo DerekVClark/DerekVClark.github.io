@@ -30,16 +30,16 @@ On the non technical side I also developed soft skills throughout the SNHU compu
 To summarize, the main goal of this E-Portfolio and the artifacts that reside within it is to showcase my relevant skills and experience designing and developing software, working with data structures/algorithms, and creating/managing databases. These three core skills are what I believe encompass software development and specifically play a major role in web development where a web application is designed and developed incorporating data and managing the data efficiently. The three artifacts included in this E-Portfolio show my progress in different aspects of computer science that are common in the field of software development.
 
 ### Skills Showcased
-| **Hard Skills**                | **Soft Skills**                 |
+| **Hard Skills** | **Soft Skills** |
 | ------------------------------- | --------------------------------- |
-| ReactJS                        | Teamwork & Collaboration        |
-| Node.js / Express              | Stakeholder Communication       |
-| MongoDB                        | Adaptability                    |
-| Git / GitHub                   | Problem Solving                 |
-| Data Structures & Algorithms   | Critical Thinking               |
-| SQLite                         | Time Management                 |
-| C++ / C                        |                                 |
-| Java                           |                                 |
+| ReactJS | Teamwork & Collaboration |
+| Node.js / Express | Stakeholder Communication |
+| MongoDB | Adaptability |
+| Git / GitHub | Problem Solving |
+| Data Structures & Algorithms | Critical Thinking |
+| SQLite | Time Management |
+| C++ / C | |
+| Java | |
 
 
 
