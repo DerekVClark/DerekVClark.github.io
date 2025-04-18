@@ -35,8 +35,6 @@ To summarize, the main goal of this E-Portfolio and the artifacts that reside wi
 | Git and Github | Problem Solving |
 | Data Structures and Algorithms | Critical Thinking |
 | SQLite | Time Management |
-| c++ | |
-| Java | |
 
 
 ---
