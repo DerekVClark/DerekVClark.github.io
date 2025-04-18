@@ -44,7 +44,7 @@ To summarize, the main goal of this E-Portfolio and the artifacts that reside wi
 | C++ |  Attention to Detail |
 
 
-[**Jump to Top**](#E-Portfolio)
+[**Jump to Top**](#E--Portfolio)
 ---
 
 ## Code Review
