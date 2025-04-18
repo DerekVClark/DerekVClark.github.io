@@ -42,6 +42,7 @@ To summarize, the main goal of this E-Portfolio and the artifacts that reside wi
 | NodeJs | Stakeholder Communication |
 | MongoDB | Adaptability |
 | Git | Problem Solving |
+| DSA | Critical Thinking |
 
 
 
