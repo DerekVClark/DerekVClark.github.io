@@ -11,7 +11,7 @@ Hello my name is Derek Clark and welcome to my E-portfolio. The purpose of this 
 
 - [**_Software Design & Engineering_**](#artifact-1-software-design--engineering)
 - [**_Algorithms & Data Structures_**](#artifact-2-algorithms--data-structures)
-- [**_Databases_**](#artifact-3-databases). 
+- [**_Databases_**](#artifact-3-databases)
 
 Additionally, I have included a [**_code review video_**](#code-review) that was recorded prior to the enhanced works completion detailing the planned enhancement and how it will imrove the application.
 
