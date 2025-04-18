@@ -41,6 +41,7 @@ To summarize, the main goal of this E-Portfolio and the artifacts that reside wi
 | ReactJs | Teamwork and Collabortion |
 | NodeJs | Stakeholder Communication |
 | MongoDB | Adaptability |
+| Git | Problem Solving |
 
 
 
