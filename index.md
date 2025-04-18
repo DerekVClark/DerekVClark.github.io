@@ -15,10 +15,7 @@ In the next section of the E-portfolio I have decided to include a professional 
 
 ---
 
-| Syntax | Description |
-| --- | ----------- |
-| Header | Title |
-| Paragraph | Text |
+
 
 ## Professional Self Assesment
 Completing the coursework throughout the SNHU computer science curriculum has allowed me to develop artifacts in which I can use to support my technological abilities including the use of relevant tools and practices that are commonly utilized in the software development field . Developing this E-portfolio has allowed me to take these previous works, showcase the work done, and reflect on the changes made to enhance them. Reviewing and reflecting upon past work during the construction of this E-Portfolio has granted me the opportunity to identify flaws, vulnerabilities, and weaknesses within these past works that I may have not previously been aware of. Throughout the SNHU computer science program I had the opportunity to work on many projects that involved developing solutions for real world problems both individually and as a group. Through developing these projects I have discovered many core software development principles and values such as gaining a deeper appreciation for the planning and testing phases of the software development life cycle and learning how to effectively gather user feedback to generate user-centric designs. My experience with full stack web development, databases, android development, and agile methodologies have prepared me to contribute meaningfully in various computer science related fields. 
@@ -41,6 +38,10 @@ To summarize, the main goal of this E-Portfolio and the artifacts that reside wi
 | C++ / C | |
 | Java | |
 
+| **Hard Skills** | **Soft Skills** |
+| --- | ----------- |
+| Header | Title |
+| Paragraph | Text |
 
 
 ---
