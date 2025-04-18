@@ -13,6 +13,8 @@ Additionally, I have included a [**_code review video_**](#Code-Review) that was
 
 In the next section of the E-portfolio I have decided to include a professional self assesment reflecting on the work I have done to complete this capstone project and my experience in the computer science program at SNHU.
 
+---
+
 ## Professional Self Assesment
 Completing the coursework throughout the SNHU computer science curriculum has allowed me to develop artifacts in which I can use to support my technological abilities including the use of relevant tools and practices that are commonly utilized in the software development field . Developing this E-portfolio has allowed me to take these previous works, showcase the work done, and reflect on the changes made to enhance them. Reviewing and reflecting upon past work during the construction of this E-Portfolio has granted me the opportunity to identify flaws, vulnerabilities, and weaknesses within these past works that I may have not previously been aware of. Throughout the SNHU computer science program I had the opportunity to work on many projects that involved developing solutions for real world problems both individually and as a group. Through developing these projects I have discovered many core software development principles and values such as gaining a deeper appreciation for the planning and testing phases of the software development life cycle and learning how to effectively gather user feedback to generate user-centric designs. My experience with full stack web development, databases, android development, and agile methodologies have prepared me to contribute meaningfully in various computer science related fields. 
 
@@ -20,12 +22,14 @@ Throughout my time at SNHU I developed projects utilizing different tech stacks 
 
 On the non technical side I also developed soft skills throughout the SNHU computer science program like effective communication, teamwork, and how to properly collect user feedback. One example in which I had to collaborate with a team and communicate with stakeholders was during my enrollment in the Software Development Lifecycle course. Participating in this course meant that I would have to work with a team of peers to develop a 
 
-
+---
 
 ## Code Review
 
 Code reviews are an important and common practice in the field of software development allowing for a deeper more thruough look through of the code to identify possible weaknesses, vulnerabilities, and ways in which the code can be improved. The following code review video was performed by me identifying enhancements that can be made to the three artifacts included in this E-portfolio, why I have chosen the enhancements/how the enhancement will improve the artifact, and finally what are my plans for implementing the planned enhancements. The code review video demonstrates my growth as a software developer and my ability to aknowledge my own faults and improve upon them with my new found knowledge.
 [![Watch the video](https://img.youtube.com/vi/MguxJ_hu0xo/0.jpg)](https://www.youtube.com/watch?v=MguxJ_hu0xo)
+
+---
 
 ## Artifact 1: Software Design & Engineering
 [**Original artifact repo**](https://github.com/DerekVClark/app)
@@ -48,6 +52,8 @@ Throughout my work enhancing this artifact I have learned alot about integrating
 - [x] (Partially) Develop a security mindset that anticipates adversarial exploits in software architecture and designs to expose potential vulnerabilities, mitigate design flaws, and ensure privacy and enhanced security of data and resources
 
 Overall this artifact enhancement meets many of the capstone course outcomes except partially for security as the android application does incroporate a login page for ensuring each inventory database is locked behind a user login but the user credentials are stored locally making it easily obtainable if the device were to be iniltrated. As for the first outcome of collaboration this project was done individually by myself but the code is hosted on github with proper commit messages and comments allowing for others to download it and build upon it if desired.
+
+---
 
 ## Artifact 2: Algorithms & Data Structures
 
@@ -72,6 +78,7 @@ Overall while completing the enhancement for this artifact I learned alot about 
 
 Overall I believe this artifact demonstartes completion of the capstome course outcomes except partially for collaboration as the work originally done and ehnancements made were both done individually by myself but the code has been uploaded to github for further downloading and imporvement by others. The project does include comments and commit messages that others may take advantage of to understand the work done and how they might improve it further.
 
+---
 
 ## Artifact 3: Databases
 
