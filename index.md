@@ -86,5 +86,15 @@ The reason why I have decided to include this artifact in my E-Portfolio is not 
 Reflecting now on the process of converting my original artifact into the enhanced copy version I would say that the conversion was very trivial and time consuming due to it tasking me with completely reconstructing my code in a new language that I was not fully comfortable with. However challenging and uncomfortable this enhancement was I am very grateful for granting myself the opportunity to put myself in a position where I was forced to think outside the box and really dig deep into understanding the core concepts that make up full stack web development. In order to become more familiar with the tech stack I had to utilize many resources for express and Nodejs as I was already somewhat familiar with react for the front end. Through the process of converting my code I discovered that many of the methods for fetching, deleting, and updating at its core are the same as I had done previously just written utilizing different syntax. Once I was able to establish a deeper understanding of the coding language and the tools utilized for developing MERN full stack applications I was able to accomplish what I had set out to do with the original artifact plus more. Throughout this process I faced many challenges but I believe that if I were to further develop this application I was come into contact with many more such as if I were to implement user authentication with session tokens.
 
 
+### Course outcomes checklist
+- [x] Employ strategies for building collaborative environments that enable diverse audiences to support organizational decision making in the field of computer science
+- [x] Design, develop, and deliver professional-quality oral, written, and visual communications that are coherent, technically sound, and appropriately adapted to specific audiences and contexts.
+- [x] Design and evaluate computing solutions that solve a given problem using algorithmic principles and computer science practices and standards appropriate to its solution, while managing the trade-offs involved in design choices.
+- [x] Demonstrate an ability to use well-founded and innovative techniques, skills, and tools in computing practices for the purpose of implementing computer solutions that deliver value and accomplish industry-specific goals.
+- [ ] Develop a security mindset that anticipates adversarial exploits in software architecture and designs to expose potential vulnerabilities, mitigate design flaws, and ensure privacy and enhanced security of data and resources
+
+Overall I believe the enhanced artifact meets all course outcomes except for the security outcome as I was not originally planning to implement an authorization for enhanced security. I did however implement robust error handling especially when data was being transfered to and from the database and implemented data validation to only accept animal data that was valid with all data fields required fulfilled by the user.
+
+
 
 
