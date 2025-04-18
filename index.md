@@ -52,6 +52,7 @@ To summarize, the main goal of this E-Portfolio and the artifacts that reside wi
 Code reviews are an important and common practice in the field of software development allowing for a deeper more thruough look through of the code to identify possible weaknesses, vulnerabilities, and ways in which the code can be improved. The following code review video was performed by me identifying enhancements that can be made to the three artifacts included in this E-portfolio, why I have chosen the enhancements/how the enhancement will improve the artifact, and finally what are my plans for implementing the planned enhancements. The code review video demonstrates my growth as a software developer and my ability to aknowledge my own faults and improve upon them with my new found knowledge.
 [![Watch the video](https://img.youtube.com/vi/MguxJ_hu0xo/0.jpg)](https://www.youtube.com/watch?v=MguxJ_hu0xo)
 
+[**Jump to Top**](#e-portfolio)
 ---
 
 ## Artifact 1: Software Design & Engineering
@@ -76,6 +77,7 @@ Throughout my work enhancing this artifact I have learned alot about integrating
 
 Overall this artifact enhancement meets many of the capstone course outcomes except partially for security as the android application does incroporate a login page for ensuring each inventory database is locked behind a user login but the user credentials are stored locally making it easily obtainable if the device were to be iniltrated. As for the first outcome of collaboration this project was done individually by myself but the code is hosted on github with proper commit messages and comments allowing for others to download it and build upon it if desired.
 
+[**Jump to Top**](#e-portfolio)
 ---
 
 ## Artifact 2: Algorithms & Data Structures
@@ -101,6 +103,7 @@ Overall while completing the enhancement for this artifact I learned alot about 
 
 Overall I believe this artifact demonstartes completion of the capstome course outcomes except partially for collaboration as the work originally done and ehnancements made were both done individually by myself but the code has been uploaded to github for further downloading and imporvement by others. The project does include comments and commit messages that others may take advantage of to understand the work done and how they might improve it further.
 
+[**Jump to Top**](#e-portfolio)
 ---
 
 ## Artifact 3: Databases
@@ -125,6 +128,7 @@ Reflecting now on the process of converting my original artifact into the enhanc
 
 Overall I believe the enhanced artifact meets all course outcomes except for the security outcome as I was not originally planning to implement an authorization for enhanced security. I did however implement robust error handling especially when data was being transfered to and from the database and implemented data validation to only accept animal data that was valid with all data fields required fulfilled by the user.
 
+[**Jump to Top**](#e-portfolio)
 
 
 
