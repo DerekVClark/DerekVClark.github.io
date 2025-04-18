@@ -30,7 +30,7 @@ To summarize, the main goal of this E-Portfolio and the artifacts that reside wi
 | **Hard Skills** | **Soft Skills** |
 | --- | ----------- |
 | ReactJs | Teamwork and Collaboration |
-| Node.js and express | Stakeholder Communication |
+| NodeJs and express | Stakeholder Communication |
 | MongoDB | Adaptability |
 | Git and Github | Problem Solving |
 | Data Structures and Algorithms | Critical Thinking |
