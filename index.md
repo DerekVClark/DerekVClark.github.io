@@ -36,8 +36,8 @@ To summarize, the main goal of this E-Portfolio and the artifacts that reside wi
 | Git | Problem Solving |
 | DSA | Critical Thinking |
 | SQLite | Time Management |
-| Java |   |
-| C++ |   |
+| Java | Requirement Gathering  |
+| C++ |  Attention to Detail |
 
 
 
