@@ -7,7 +7,7 @@ layout: default
 # E-Portfolio
 
 ## Welcome
-Hello my name is Derek Clark and welcome to my E-portfolio. The purpose of this E-portfolio is to not only demonstrate my ability to develop a fully fledged working application but identify weaknesses and imporvements that can be made to enhance the artifact.  Encompassed in this portfolio are three unqiue artifacts that fall under three distinct software development categories. These three distinct categories are [_Software Design & Engineering_](#artifact-1-software-design--engineering) , [_Algorithms & Data Structures_](artifact-2-algorithms--data-structures) , and lastly [_Databases_](artifact-3-databases). 
+Hello my name is Derek Clark and welcome to my E-portfolio. The purpose of this E-portfolio is to not only demonstrate my ability to develop a fully fledged working application but identify weaknesses and imporvements that can be made to enhance the artifact.  Encompassed in this portfolio are three unqiue artifacts that fall under three distinct software development categories. These three distinct categories are [Software Design & Engineering](#artifact-1-software-design--engineering) , [Algorithms & Data Structures](artifact-2-algorithms--data-structures) , and lastly [Databases](artifact-3-databases). 
 
 Additionally, I have included a [**_code review video_**](#code-review) that was recorded prior to the enhanced works completion detailing the planned enhancement and how it will imrove the application.
 
