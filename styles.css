@@ -3,11 +3,13 @@ body {
   color: #ECDFCC;
 }
 h1 {
-  color: #6A6F71;
-}
-h2{
   color: #333A3B;
 }
+h2{
+  color: #6A6F71;
+}
+h3{
+  color: #9A9DA0;
 a {
   color: #A6E1FA;
 }
